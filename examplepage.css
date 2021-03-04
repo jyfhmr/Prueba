@@ -1,0 +1,25 @@
+body {margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 30px;
+  margin-bottom: 30px;}
+
+h1 { size=50; color:white ; background-color:#06047a ; text-align: center }
+.h3-quiza {color:rgb(0, 0, 0) ; text-align:center ; font-size:1,5em ;font-style:italic;}
+ .h2-quiza {width: 150px; height: 150px;}
+ .h2-quiza {font-size:1,3em;font-style:italic}
+ .imagen {float: left; width: 300px; width:200px ;margin-right:10px}
+ .parrafo{ font-style:italic;
+  font-weight:bold;
+  font-size:1,5em;
+  color:rgb(0, 0, 0);
+  font-family:"Times new Roman";
+  text-align: justify;
+line-height : 25px}
+  .teamo {font-size:2em ; color: rgb(255, 0, 234); font-weight: bold;}
+  .41 {float: left; margin-left:197px;}
+  .2 {float: right;margin-right:197px;}
+  .3{float: left;margin-left: 95px;}
+  .4{float: right;margin-right:95px;}
+  .ultimotitulo {font-size: 2em; color: rgb(0, 0, 0); font-weight: bolder; text-align: center; background-color: white;}
+  .segundotitulo {font-size:1,8em ; color: cadetblue; font-weight: lighter; text-align: center; background-color: darkgreen;}
+  .UltimoParrafo {font-size: 1em; color: black ; font-weight: bold; text-align: justify;
